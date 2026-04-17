@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Standard Digital Logic Cells Analog Comparator"      # Project title
+  title:        "Digital Logic Cells Analog Comparator"      # Project title
   author:       "Maximiliam Luppe"      # Your name
   discord:      "maxluppe"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Implementation of an analog comparator using only digital standard cells based on SKY130 digital cells"      # One line description of what your project does
